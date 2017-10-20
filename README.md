@@ -1,1 +1,1 @@
-<h2>LLibrary Management System<h2>
+<h2>Library Management System<h2>
